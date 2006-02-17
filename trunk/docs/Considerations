@@ -1,0 +1,3 @@
+Localization: Gettext or plain PHP?
+ -- PHP is faster if Gettext is not available
+ -- There are several nice tools for Gettext (KBabel for example)

@@ -1,0 +1,17 @@
+0.1:
+    ORM                 ORM Tool based on ezPDO
+    HTTP                HTTP basics
+    Resource            RESTful RequestProcessor and Resources
+    Auth                Authentication & Autorization
+    Content             Simple resource
+    Template            Template
+
+0.2:
+    Security            Basic security measures (Teergrubing, IP blocking)
+
+0.x:
+    Validation          Validators and Filters
+    RDF                 Semantic Web
+    FeedGenerator       Newsfeed Generator
+    FeedParser          Newsfeed Parser
+    Logger              Logging

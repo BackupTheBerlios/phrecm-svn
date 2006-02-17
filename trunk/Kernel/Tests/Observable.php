@@ -53,10 +53,10 @@
 class Kernel_Tests_Observable extends Kernel_Observable
 {
 
-    public function notifyObservers()
+    public function notifyObservers($event)
     {
         $args = func_get_args();
-        return call_user_func_array(array('Kernel_Observable', 'notifyObservers'), $args);
+        return @call_user_func_array(array('Kernel_Observable', 'notifyObservers'), $args);
     }
 
 }

@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/10/19 02:22:30 $
+ * @version $Revision$ $Date: 2005/10/19 02:22:30 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -25,7 +25,7 @@ include_once(EP_LIBS_PEAR . '/Log.php');
  * Exception class for {@link epLog}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/10/19 02:22:30 $
+ * @version $Revision$ $Date: 2005/10/19 02:22:30 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -60,7 +60,7 @@ class epExceptionLog extends epException {
  * </pre>
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/10/19 02:22:30 $
+ * @version $Revision$ $Date: 2005/10/19 02:22:30 $
  * @package ezpdo
  * @subpackage ezpdo.base
  */

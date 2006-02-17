@@ -8,7 +8,7 @@
  * $ ./ver.sh
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.1 $ $Date: 2005/07/04 17:15:15 $
+ * @version $Revision$ $Date: 2005/07/04 17:15:15 $
  * @package ezpdo
  * @subpackage script
  */

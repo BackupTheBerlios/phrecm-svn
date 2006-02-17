@@ -7,7 +7,7 @@
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
  * @author Trevan Richins <developer@ckiweb.com>
- * @version $Revision: 1.1 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */

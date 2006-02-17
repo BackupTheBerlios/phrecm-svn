@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.4 $ $Date: 2005/07/15 19:37:55 $
+ * @version $Revision$ $Date: 2005/07/15 19:37:55 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -25,7 +25,7 @@ if (interface_exists('epValidateable')) {
  * (class_a, oid_a) and (class_b, oid_b)
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.4 $ $Date: 2005/07/15 19:37:55 $
+ * @version $Revision$ $Date: 2005/07/15 19:37:55 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */

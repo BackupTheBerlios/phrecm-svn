@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $ $Date: 2005/11/09 01:47:49 $
+ * @version $Revision$ $Date: 2005/11/09 01:47:49 $
  * @package ezpdo
  * @subpackage ezpdo.db
  */
@@ -20,7 +20,7 @@ include_once(EP_SRC_BASE.'/epBase.php');
  * Exception class for {@link epDb}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $ $Date: 2005/11/09 01:47:49 $
+ * @version $Revision$ $Date: 2005/11/09 01:47:49 $
  * @package ezpdo
  * @subpackage ezpdo.db 
  */
@@ -51,7 +51,7 @@ class epExceptionDb extends epException {
  * (see {@link epDbPdo}). 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $ $Date: 2005/11/09 01:47:49 $
+ * @version $Revision$ $Date: 2005/11/09 01:47:49 $
  * @package ezpdo
  * @subpackage ezpdo.db
  */

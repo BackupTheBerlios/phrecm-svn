@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.6 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.db
  */
@@ -15,7 +15,7 @@
  * Class to handle database portability for Sqlite
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.6 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.db
  */

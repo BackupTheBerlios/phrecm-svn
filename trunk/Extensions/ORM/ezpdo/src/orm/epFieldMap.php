@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.15 $ $Date: 2005/12/03 22:43:06 $
+ * @version $Revision$ $Date: 2005/12/03 22:43:06 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -23,7 +23,7 @@ include_once(EP_SRC_BASE.'/epBase.php');
  * a class is mapped to a database column. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.15 $ $Date: 2005/12/03 22:43:06 $
+ * @version $Revision$ $Date: 2005/12/03 22:43:06 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -240,7 +240,7 @@ class epFieldMap extends epBase {
  * The field map for primitive types
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.15 $ $Date: 2005/12/03 22:43:06 $
+ * @version $Revision$ $Date: 2005/12/03 22:43:06 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -340,7 +340,7 @@ class epFieldMapPrimitive extends epFieldMap {
  * if A::$b and B::$a are specified as inverses.   
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.15 $ $Date: 2005/12/03 22:43:06 $
+ * @version $Revision$ $Date: 2005/12/03 22:43:06 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -506,7 +506,7 @@ class epFieldMapRelationship extends epFieldMap {
  * The exception class for {@link epFieldMapFactory}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.15 $ $Date: 2005/12/03 22:43:06 $
+ * @version $Revision$ $Date: 2005/12/03 22:43:06 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -526,7 +526,7 @@ class epExceptionFieldMapFactory extends epException {
  * static method of {@link make()}.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.15 $ $Date: 2005/12/03 22:43:06 $
+ * @version $Revision$ $Date: 2005/12/03 22:43:06 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */

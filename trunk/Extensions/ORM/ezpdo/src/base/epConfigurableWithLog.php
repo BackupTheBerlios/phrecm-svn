@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.4 $ $Date: 2005/10/19 02:03:02 $
+ * @version $Revision$ $Date: 2005/10/19 02:03:02 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */ 
@@ -25,7 +25,7 @@ include_once(EP_SRC_BASE.'/epLog.php');
  * Exception class for {@link epConfigurableWithLogger}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.4 $ $Date: 2005/10/19 02:03:02 $
+ * @version $Revision$ $Date: 2005/10/19 02:03:02 $
  * @package ezpdo
  * @subpackage ezpdo.base
  */
@@ -40,7 +40,7 @@ class epExceptionConfigurableWithLog extends epException {
  * you'd like. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.4 $ $Date: 2005/10/19 02:03:02 $
+ * @version $Revision$ $Date: 2005/10/19 02:03:02 $
  * @package ezpdo
  * @subpackage ezpdo.base
  * @see epConfigurable

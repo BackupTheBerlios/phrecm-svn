@@ -9,7 +9,7 @@
  * $ ./eptbs.sh -h 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.1 $ $Date: 2005/06/01 21:01:32 $
+ * @version $Revision$ $Date: 2005/06/01 21:01:32 $
  * @package ezpdo
  * @subpackage script
  */

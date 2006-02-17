@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.13 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */
@@ -65,7 +65,7 @@ epDefine('EPQ_N_WHERE');
  * during parsing).
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.13 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */
@@ -365,7 +365,7 @@ class epQueryNode extends epBase {
  * only 1-token lookahead ({@epQueryParser::peek()}). 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.13 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */

@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.89 $ $Date: 2005/12/15 11:21:50 $
+ * @version $Revision$ $Date: 2005/12/15 11:21:50 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -44,7 +44,7 @@ define('EP_GET_FROM_BOTH',  3);
  * Exception class for {@link epManagerBase}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.89 $ $Date: 2005/12/15 11:21:50 $
+ * @version $Revision$ $Date: 2005/12/15 11:21:50 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -61,7 +61,7 @@ class epExceptionManagerBase extends epExceptionConfigurableWithLog {
  * concerns. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.89 $ $Date: 2005/12/15 11:21:50 $
+ * @version $Revision$ $Date: 2005/12/15 11:21:50 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -2170,7 +2170,7 @@ class epManagerBase extends epConfigurableWithLog {
  * Child of epExceptionManagerBase.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.89 $ $Date: 2005/12/15 11:21:50 $
+ * @version $Revision$ $Date: 2005/12/15 11:21:50 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -2187,7 +2187,7 @@ class epExceptionManager extends epExceptionManagerBase {
  * This class also implements the {@link epSingleton} interface. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.89 $ $Date: 2005/12/15 11:21:50 $
+ * @version $Revision$ $Date: 2005/12/15 11:21:50 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */

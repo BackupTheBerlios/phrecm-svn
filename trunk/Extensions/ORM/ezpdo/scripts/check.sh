@@ -8,7 +8,7 @@
  * $ ./check.sh
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.7 $ $Date: 2005/11/24 20:45:34 $
+ * @version $Revision$ $Date: 2005/11/24 20:45:34 $
  * @package ezpdo
  * @subpackage script
  */

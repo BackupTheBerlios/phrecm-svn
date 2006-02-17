@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.19 $ $Date: 2005/12/11 18:25:40 $
+ * @version $Revision$ $Date: 2005/12/11 18:25:40 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */
@@ -25,7 +25,7 @@ include_once(EP_SRC_ORM.'/epClassMap.php');
  * The exception class for {@link epCompiler}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.19 $ $Date: 2005/12/11 18:25:40 $
+ * @version $Revision$ $Date: 2005/12/11 18:25:40 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */
@@ -53,7 +53,7 @@ class epExceptionCompiler extends epException {
  * </ol>
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.19 $ $Date: 2005/12/11 18:25:40 $
+ * @version $Revision$ $Date: 2005/12/11 18:25:40 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */

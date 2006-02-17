@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */
@@ -20,7 +20,7 @@ include_once(EP_SRC_QUERY.'/epQueryParser.php');
  * Exception class for {@link epDb}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -36,7 +36,7 @@ class epExceptionQueryBuilder extends epException {
  * and identifier quoting is also delegated to database ({@link epDbObject}). 
  * 
  * @author Oak Nauhygon <slimjs@gmail.com>
- * @version $Revision: 1.28 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */

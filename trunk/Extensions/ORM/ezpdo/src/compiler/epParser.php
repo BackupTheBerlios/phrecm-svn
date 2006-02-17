@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.13 $ $Date: 2005/12/11 18:24:26 $
+ * @version $Revision$ $Date: 2005/12/11 18:24:26 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */
@@ -25,7 +25,7 @@ include_once(EP_SRC_BASE.'/epConfigurableWithLog.php');
  * The exception class for {@link epParser}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.13 $ $Date: 2005/12/11 18:24:26 $
+ * @version $Revision$ $Date: 2005/12/11 18:24:26 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */
@@ -40,7 +40,7 @@ class epExceptionParser extends epExceptionConfigurableWithLog {
  * class maps through {@link epClassMapFactory}. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.13 $ $Date: 2005/12/11 18:24:26 $
+ * @version $Revision$ $Date: 2005/12/11 18:24:26 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */

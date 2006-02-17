@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.8 $ $Date: 2005/10/19 00:36:16 $
+ * @version $Revision$ $Date: 2005/10/19 00:36:16 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -20,7 +20,7 @@ include_once(EP_SRC_BASE.'/epBase.php');
  * Exception class for {@link epOverload}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.8 $ $Date: 2005/10/19 00:36:16 $
+ * @version $Revision$ $Date: 2005/10/19 00:36:16 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -79,7 +79,7 @@ class epExceptionOverload extends epException {
  * This means calling $this->Foo() has the same effect as calling $this->foo()!
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.8 $ $Date: 2005/10/19 00:36:16 $
+ * @version $Revision$ $Date: 2005/10/19 00:36:16 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */

@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -25,7 +25,7 @@ include_once(EP_SRC_BASE.'/epOverload.php');
  * Exception class for {@link epObject}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -41,7 +41,7 @@ if (!interface_exists('Countable', false)) {
     /**
      * Interface Countable 
      * @author Oak Nauhygon <ezpdo4php@gmail.com>
-     * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+     * @version $Revision$ $Date: 2005/11/09 12:47:40 $
      * @package ezpdo
      * @subpackage ezpdo.runtime
      */
@@ -87,7 +87,7 @@ if (!interface_exists('Countable', false)) {
  * ArrayAccess} so the object can be easily accessed as an array. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -411,7 +411,7 @@ interface epObject extends IteratorAggregate, ArrayAccess, Countable {
  * This class is used for the "many" fields in an epObject
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -913,7 +913,7 @@ class epArray implements IteratorAggregate, ArrayAccess, Countable {
  * Exception class for {@link epObject}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -933,7 +933,7 @@ class epExceptionObjectWrapperBase extends epExceptionObject {
  * the subclass {@link epObjectWrapper}.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -2174,7 +2174,7 @@ class epObjectWrapperBase extends epOverload implements epObject {
  * Exception class for {@link epObjectWrapper}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -2189,7 +2189,7 @@ class epExceptionObjectWrapper extends epExceptionObjectWrapperBase {
  * here.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.71 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */

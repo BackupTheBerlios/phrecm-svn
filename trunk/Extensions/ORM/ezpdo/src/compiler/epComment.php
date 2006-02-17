@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/12/11 17:00:26 $
+ * @version $Revision$ $Date: 2005/12/11 17:00:26 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */
@@ -22,7 +22,7 @@
  * </pre>
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/12/11 17:00:26 $
+ * @version $Revision$ $Date: 2005/12/11 17:00:26 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */
@@ -176,7 +176,7 @@ class epComment {
  * into orm attributes. To get the attribute value, use {@link get()}. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/12/11 17:00:26 $
+ * @version $Revision$ $Date: 2005/12/11 17:00:26 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  * @abstract
@@ -241,7 +241,7 @@ abstract class epTag {
  * </ol>
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/12/11 17:00:26 $
+ * @version $Revision$ $Date: 2005/12/11 17:00:26 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */
@@ -317,7 +317,7 @@ class epClassTag extends epTag {
  * </ol>
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/12/11 17:00:26 $
+ * @version $Revision$ $Date: 2005/12/11 17:00:26 $
  * @package ezpdo
  * @subpackage ezpdo.compiler
  */

@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/09/02 19:47:37 $
+ * @version $Revision$ $Date: 2005/09/02 19:47:37 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -25,7 +25,7 @@ include_once(EP_SRC_DB.'/epDb.php');
  * Exception class for {@link epTransaction}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/09/02 19:47:37 $
+ * @version $Revision$ $Date: 2005/09/02 19:47:37 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */
@@ -42,7 +42,7 @@ class epExceptionTransaction extends epException {
  * {@link epManager::rollback_t()}. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/09/02 19:47:37 $
+ * @version $Revision$ $Date: 2005/09/02 19:47:37 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */

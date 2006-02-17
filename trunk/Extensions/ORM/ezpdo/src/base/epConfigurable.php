@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/09/19 09:48:55 $
+ * @version $Revision$ $Date: 2005/09/19 09:48:55 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */ 
@@ -40,7 +40,7 @@ include_once(EP_SRC_BASE.'/epConfig.php');
  * See {@link epConfig} and {@link epConfig::merge()} for more info. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.5 $ $Date: 2005/09/19 09:48:55 $
+ * @version $Revision$ $Date: 2005/09/19 09:48:55 $
  * @package ezpdo
  * @subpackage ezpdo.base
  * @see epConfig

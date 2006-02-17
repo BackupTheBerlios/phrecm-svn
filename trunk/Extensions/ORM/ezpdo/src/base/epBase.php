@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -15,7 +15,7 @@
  * The nameable interface 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -39,7 +39,7 @@ interface epNameable {
  * The identifiable interface  
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -57,7 +57,7 @@ interface epIdentifiable {
  * The validateable interface 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -77,7 +77,7 @@ interface epValidateable {
  * Interface of singleton
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -105,7 +105,7 @@ interface epSingleton  {
  * manufactured. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -143,7 +143,7 @@ interface epFactory {
  * Base class of ezpdo exception
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -163,7 +163,7 @@ class epException extends Exception {
  * The base class of ezpdo
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.11 $ $Date: 2005/11/09 12:47:40 $
+ * @version $Revision$ $Date: 2005/11/09 12:47:40 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */

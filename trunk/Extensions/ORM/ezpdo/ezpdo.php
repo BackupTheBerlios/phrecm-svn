@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.12 $ $Date: 2005/11/30 16:06:16 $
+ * @version $Revision$ $Date: 2005/11/30 16:06:16 $
  * @package ezpdo
  * @subpackage base
  */

@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.2 $ $Date: 2005/03/01 14:37:48 $
+ * @version $Revision$ $Date: 2005/03/01 14:37:48 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -24,7 +24,7 @@ include_once(EP_SRC_BASE.'/epBase.php');
  * is useful in constructing tree/graph structures.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.2 $ $Date: 2005/03/01 14:37:48 $
+ * @version $Revision$ $Date: 2005/03/01 14:37:48 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */

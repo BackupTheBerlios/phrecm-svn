@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $ $Date: 2005/12/06 12:10:28 $
+ * @version $Revision$ $Date: 2005/12/06 12:10:28 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -25,7 +25,7 @@ include_once(EP_SRC_ORM.'/epFieldMap.php');
  * The exception class of {@link epClassMap}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $ $Date: 2005/12/06 12:10:28 $
+ * @version $Revision$ $Date: 2005/12/06 12:10:28 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -47,7 +47,7 @@ class epExceptionClassMap extends epException {
  * through the factory interface, {@link epClassMapFactory}.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $ $Date: 2005/12/06 12:10:28 $
+ * @version $Revision$ $Date: 2005/12/06 12:10:28 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */
@@ -529,7 +529,7 @@ class epClassMap extends epContainer {
  * Exception class for {@link epClassMapFactory}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $ $Date: 2005/12/06 12:10:28 $
+ * @version $Revision$ $Date: 2005/12/06 12:10:28 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -540,7 +540,7 @@ class epExceptionClassMapFactory extends epException {
  * The factory class of ezpdo class mapping info. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.28 $ $Date: 2005/12/06 12:10:28 $
+ * @version $Revision$ $Date: 2005/12/06 12:10:28 $
  * @package ezpdo
  * @subpackage ezpdo.orm
  */

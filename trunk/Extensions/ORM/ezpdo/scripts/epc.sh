@@ -9,7 +9,7 @@
  * $ ./epc.sh -h 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.4 $ $Date: 2005/07/28 01:49:43 $
+ * @version $Revision$ $Date: 2005/07/28 01:49:43 $
  * @package ezpdo
  * @subpackage script
  */

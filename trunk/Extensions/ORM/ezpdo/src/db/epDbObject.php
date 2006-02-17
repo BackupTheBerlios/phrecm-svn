@@ -7,7 +7,7 @@
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
  * @author Trevan Richins <developer@ckiweb.com>
- * @version $Revision: 1.59 $ $Date: 2005/12/15 03:48:53 $
+ * @version $Revision$ $Date: 2005/12/15 03:48:53 $
  * @package ezpdo
  * @subpackage ezpdo.db
  */
@@ -24,7 +24,7 @@ include_once(EP_SRC_ORM.'/epClassMap.php');
  * ({@link epClassMap}) into SQL statements
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.59 $ $Date: 2005/12/15 03:48:53 $
+ * @version $Revision$ $Date: 2005/12/15 03:48:53 $
  * @package ezpdo
  * @subpackage ezpdo.db
  */
@@ -558,7 +558,7 @@ class epObj2Sql {
  * Exception class for {@link epDbObject}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.59 $ $Date: 2005/12/15 03:48:53 $
+ * @version $Revision$ $Date: 2005/12/15 03:48:53 $
  * @package ezpdo
  * @subpackage ezpdo.base 
  */
@@ -584,7 +584,7 @@ class epExceptionDbObject extends epException {
  * epDbFactory}. 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.59 $ $Date: 2005/12/15 03:48:53 $
+ * @version $Revision$ $Date: 2005/12/15 03:48:53 $
  * @package ezpdo
  * @subpackage ezpdo.db
  */
@@ -1329,7 +1329,7 @@ class epDbObject {
  * Exception class for {@link epDbFactory}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.59 $ $Date: 2005/12/15 03:48:53 $
+ * @version $Revision$ $Date: 2005/12/15 03:48:53 $
  * @package ezpdo
  * @subpackage ezpdo.db 
  */
@@ -1343,7 +1343,7 @@ class epExceptionDbFactory extends epException {
  * a one(DSN)-to-one(epDbObject isntance) mapping.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.59 $ $Date: 2005/12/15 03:48:53 $
+ * @version $Revision$ $Date: 2005/12/15 03:48:53 $
  * @package ezpdo
  * @subpackage ezpdo.db
  */

@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.6 $ $Date: 2005/11/09 12:54:01 $
+ * @version $Revision$ $Date: 2005/11/09 12:54:01 $
  * @package ezpdo
  * @subpackage ezpdo.db
  */
@@ -20,7 +20,7 @@ include_once(EP_SRC_BASE.'/epBase.php');
  * Exception class for {@link epDbDsn}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.6 $ $Date: 2005/11/09 12:54:01 $
+ * @version $Revision$ $Date: 2005/11/09 12:54:01 $
  * @package ezpdo
  * @subpackage ezpdo.db 
  */
@@ -50,7 +50,7 @@ class epExceptionDbDsn extends epException {
  * + password: Password for login
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.6 $ $Date: 2005/11/09 12:54:01 $
+ * @version $Revision$ $Date: 2005/11/09 12:54:01 $
  * @package ezpdo
  * @subpackage ezpdo.db
  */

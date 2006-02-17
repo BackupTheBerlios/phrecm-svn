@@ -4,7 +4,7 @@
 # for EZPDO testing and logging
 # 
 # @author Oak Nauhygon <ezpdo4php@gmail.com>
-# @version $Revision: 1.3 $ $Date: 2005/04/17 16:44:12 $
+# @version $Revision$ $Date: 2005/04/17 16:44:12 $
 # @package ezpdo
 # @subpackage script
 

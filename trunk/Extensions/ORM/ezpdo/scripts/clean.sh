@@ -3,7 +3,7 @@
 # This script cleans up output from tests and examples
 # 
 # @author Oak Nauhygon <ezpdo4php@gmail.com>
-# @version $Revision: 1.2 $ $Date: 2005/04/17 16:44:12 $
+# @version $Revision$ $Date: 2005/04/17 16:44:12 $
 # @package ezpdo
 # @subpackage script
 

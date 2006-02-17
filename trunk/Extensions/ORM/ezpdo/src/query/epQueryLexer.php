@@ -6,7 +6,7 @@
  * Copyright(c) 2005 by Oak Nauhygon. All rights reserved.
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.7 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */
@@ -65,7 +65,7 @@ epDefine('EPQ_T_UNKNOWN');
  * + char, the position of the starting char from which this token is found
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.7 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */
@@ -125,7 +125,7 @@ class epQueryToken extends epBase {
  * + char, the position of the starting char in the starting line from which this error occurs
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.7 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */
@@ -181,7 +181,7 @@ class epQueryError extends epBase {
  * A stream class for the EZOQL lexer
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.7 $
+ * @version $Revision$
  * @package ezpdo
  * @subpackage ezpdo.query
  */
@@ -330,7 +330,7 @@ class epQueryStream extends epBase {
  * Exception class for {@link epQueryLexer}
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.7 $ $Date: 2005/12/10 22:45:41 $
+ * @version $Revision$ $Date: 2005/12/10 22:45:41 $
  * @package ezpdo
  * @subpackage ezpdo.runtime
  */

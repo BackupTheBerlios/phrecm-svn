@@ -13,7 +13,7 @@
  * $ ./epr.sh -h 
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>
- * @version $Revision: 1.1 $ $Date: 2005/07/16 11:00:39 $
+ * @version $Revision$ $Date: 2005/07/16 11:00:39 $
  * @package ezpdo
  * @subpackage script
  */

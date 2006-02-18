@@ -166,11 +166,11 @@ class epDbPortPostgres extends epDbPortable {
             
             case epFieldMap::DT_CLOB:
             case epFieldMap::DT_TEXT:
-                // http://www.postgresql.org/docs/8.0/interactive/datatype-character.html
+                // http://www.postgresql.org/Documentation/8.0/interactive/datatype-character.html
                 return 'text';
 
             case epFieldMap::DT_BLOB:
-                // see http://www.postgresql.org/docs/8.0/interactive/datatype-binary.html
+                // see http://www.postgresql.org/Documentation/8.0/interactive/datatype-binary.html
                 return 'bytea';
 
             case epFieldMap::DT_DATE:

@@ -75,7 +75,7 @@ class epExceptionOverload extends epException {
  * 
  * Note that as of PHP 5.0.2, methods are *case-insensitive* when they 
  * are called, although functions, such as get_class_methods(), return 
- * the case-sensitive names (See {@link http://docs.php.net/en/migration5.html}). 
+ * the case-sensitive names (See {@link http://Documentation.php.net/en/migration5.html}). 
  * This means calling $this->Foo() has the same effect as calling $this->foo()!
  * 
  * @author Oak Nauhygon <ezpdo4php@gmail.com>

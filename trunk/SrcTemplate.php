@@ -14,7 +14,7 @@
  * GNU General Public License for more details.
  *
  * You can find a copy of the GNU General Public License in
- * docs/LICENSE or at {@link http://www.gnu.org/licenses/gpl.html}
+ * Documentation/LICENSE or at {@link http://www.gnu.org/licenses/gpl.html}
  *
  * @package package
  *
